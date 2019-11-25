@@ -1,0 +1,84 @@
+
+
+body{
+	
+	background-image: url("nice_winter_day_266015.jpg");
+	background-repeat:no-repeat;
+	background-position:right top;
+	background-attachment:fixed;
+	
+}	
+h1{
+	color:black;
+
+}
+
+#amin{
+	height:198px;
+	width:1400px;
+	background-color:red;
+	
+	
+}
+#amin ul{
+	
+	
+	
+}
+#amin ul li{
+	
+	list-style-type:none;
+	margin :30px 130px;
+	float:left;
+}
+#amin ul li a{
+	text-decoration:none;
+	font-size:40px;
+	color:black;
+	cursor:help;
+	
+}
+
+#amin ul li a:hover{
+	
+text-decoration:underline;	
+	
+	
+}
+
+
+.alaminkhan{
+
+height: 100px;
+width: 1400px;
+background-color: rgb(15, 19, 18);
+font-color:red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
